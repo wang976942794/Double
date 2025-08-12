@@ -3,7 +3,7 @@
     <nav class="sidebar-nav">
       <ul class="nav-list">
         <li class="nav-item">
-          <router-link to="/" class="nav-link" active-class="active">
+          <router-link to="/dashboard" class="nav-link" active-class="active">
             <span class="nav-icon"> <i class="fa-solid fa-tv"></i></span>
             <span class="nav-text">首页</span>
           </router-link>
